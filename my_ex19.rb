@@ -28,6 +28,6 @@ puts "
 puts "We can do math inside too:"
 airports_and_aircraft(amount_of_airports + 3, amount_of_aircraft + 41)
 
-puts "((((((((((((((((((((((((((((((((9"
+puts "(((((((((((((((((((((((((((((((("
 puts "And we can combine the two, variables and math:"
 airports_and_aircraft(amount_of_airports + 4, amount_of_aircraft + 55)
